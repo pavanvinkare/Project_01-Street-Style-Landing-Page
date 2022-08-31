@@ -2,8 +2,7 @@
 
 # Street Style Landing Page
 
-### Live Project Link Is Here 
-!(https://live-class-project-1-street-style.netlify.app)
+### Live Project Link Is Here  !(https://live-class-project-1-street-style.netlify.app)
 
 ![project-01-image](./thumbnail.png)
 
